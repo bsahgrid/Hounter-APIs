@@ -1,0 +1,19 @@
+{
+  "title": "Let's Tour And See Our House!",
+  "description": "Houses recommended by our partners that have been curated to become the home of your dreams!",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "carports": 1,
+  "floors": 2,
+  "agent": {
+    "name": "Dianne Russell",
+    "location": "Manchester, Kentucky",
+    "image": "/src/assets/img/img_1.svg"
+  },
+  "mainImage": "/src/assets/img/mainHouse.svg",
+  "thumbnails": [
+    "/src/assets/img/interior1.svg",
+    "/src/assets/img/interior2.svg",
+    "/src/assets/img/interior3.svg"
+  ]
+}
