@@ -1,0 +1,76 @@
+{
+  "initialHighlightedArticle": {
+    "id": 0,
+    "people": "/src/assets/img/img_3.svg",
+    "author": "Bikash Sah",
+    "title": "The things we need to check when we want to buy a house",
+    "description": "This is a dummy description that I'm writing to highlight the importance about the important of house and for testing purpose",
+    "date": "25 Apr 2021",
+    "readTime": "4 min read",
+    "image": "/src/assets/img/blogHouse4.svg"
+  },
+  "initialArticles": [
+    {
+      "id": 1,
+      "people": "/src/assets/img/img_1.svg",
+      "author": "Dianne Russell",
+      "title": "The things we need to check when we want to buy a house",
+      "description": "This is a dummy description that I'm writing to highlight the importance about the important of house and for testing purpose This is a dummy description that I'm writing to highlight the importance about the important of house and for testing purpose",
+      "date": "25 Apr 2021",
+      "readTime": "4 min read",
+      "image": "/src/assets/img/blogHouse1.svg"
+    },
+    {
+      "id": 2,
+      "people": "/src/assets/img/img_2.svg",
+      "author": "Courtney Henry",
+      "title": "7 Ways to distinguish the quality of the house we want to buy",
+      "description": "This is a dummy description that I'm writing to highlight the importance about the important of house and for testing purpose",
+      "date": "24 Apr 2021",
+      "readTime": "6 min read",
+      "image": "/src/assets/img/blogHouse2.svg"
+    },
+    {
+      "id": 3,
+      "people": "/src/assets/img/img_3.svg",
+      "author": "Darlene Robertson",
+      "title": "The best way to know the quality of the house we want to buy",
+      "description": "This is a dummy description that I'm writing to highlight the importance about the important of house and for testing purpose",
+      "date": "24 Apr 2021",
+      "readTime": "2 min read",
+      "image": "/src/assets/img/blogHouse3.svg"
+    }
+  ],
+  "extraArticles": [
+    {
+      "id": 4,
+      "people": "/src/assets/img/img_4.svg",
+      "author": "Jane Cooper",
+      "title": "How to choose a neighborhood for your next home",
+      "description": "This is a dummy description that I'm writing to highlight the importance about the important of house and for testing purpose",
+      "date": "23 Apr 2021",
+      "readTime": "5 min read",
+      "image": "/src/assets/img/blogHouse1.svg"
+    },
+    {
+      "id": 5,
+      "people": "/src/assets/img/img_1.svg",
+      "author": "Robert Fox",
+      "title": "Understanding mortgage rates in 2025",
+      "description": "This is a dummy description that I'm writing to highlight the importance about the important of house and for testing purpose",
+      "date": "22 Apr 2021",
+      "readTime": "7 min read",
+      "image": "/src/assets/img/blogHouse2.svg"
+    },
+    {
+      "id": 6,
+      "people": "/src/assets/img/img_2.svg",
+      "author": "Annette Black",
+      "title": "Tips to increase your home’s resale value",
+      "description": "This is a dummy description that I'm writing to highlight the importance about the important of house and for testing purpose",
+      "date": "21 Apr 2021",
+      "readTime": "3 min read",
+      "image": "/src/assets/img/blogHouse3.svg"
+    }
+  ]
+}
