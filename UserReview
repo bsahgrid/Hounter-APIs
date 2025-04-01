@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/src/assets/img/img_1.svg",
+    "name": "Jenny Wilson",
+    "role": "Manager Director",
+    "rating": 4.6,
+    "review": "Best! I got the house I wanted through Hounter.",
+    "subReview": "Through this website, I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.",
+    "houseImage": "/src/assets/img/userHouse1.svg"
+  },
+  {
+    "id": 2,
+    "image": "/src/assets/img/img_2.svg",
+    "name": "Ronald Richards",
+    "role": "Head of Marketing",
+    "rating": 4.3,
+    "review": "Through the Hounter, I can get a house for myself.",
+    "subReview": "Through this website, I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.",
+    "houseImage": "/src/assets/img/userHouse3.svg"
+  },
+  {
+    "id": 3,
+    "image": "/src/assets/img/img_3.svg",
+    "name": "Jenny Wilson",
+    "role": "Manager Director",
+    "rating": 4.1,
+    "review": "My house sold out fast!",
+    "subReview": "Through this website, I can get a house with the type and specifications I want very easily, without a complicated process to be able to find information on the house we want.",
+    "houseImage": "/src/assets/img/userHouse2.svg"
+  }
+]
