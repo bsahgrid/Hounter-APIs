@@ -1,0 +1,21 @@
+[
+  {
+    "avatars": [
+      "/src/assets/img/img_1.svg",
+      "/src/assets/img/img_2.svg",
+      "/src/assets/img/img_3.svg"
+    ],
+    "title": "1K+ People",
+    "description": "Successfully Getting Home"
+  },
+  {
+    "avatars": ["/src/assets/img/img_4.svg"],
+    "title": "300+ Apartments",
+    "description": "Sold in the Last Month"
+  },
+  {
+    "avatars": ["/src/assets/img/img_4.svg", "/src/assets/img/img_2.svg"],
+    "title": "500+ Families",
+    "description": "Happily Settled"
+  }
+]
