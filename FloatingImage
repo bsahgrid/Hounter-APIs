@@ -1,0 +1,34 @@
+[
+  {
+    "src": "/src/assets/img/subscribe1.svg",
+    "alt": "house 1"
+  },
+  {
+    "src": "/src/assets/img/subscribe2.svg",
+    "alt": "House 2"
+  },
+  {
+    "src": "/src/assets/img/subscribe3.svg",
+    "alt": "house 3"
+  },
+  {
+    "src": "/src/assets/img/subscribe4.svg",
+    "alt": "User 4"
+  },
+  {
+    "src": "/src/assets/img/img_1.svg",
+    "alt": "User 1"
+  },
+  {
+    "src": "/src/assets/img/img_2.svg",
+    "alt": "User 2"
+  },
+  {
+    "src": "/src/assets/img/img_3.svg",
+    "alt": "User 3"
+  },
+  {
+    "src": "/src/assets/img/img_4.svg",
+    "alt": "User 4"
+  }
+]
